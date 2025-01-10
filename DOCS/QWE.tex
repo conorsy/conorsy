@@ -1,0 +1,42 @@
+\documentclass[a4paper]{article}
+
+\usepackage{authblk}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{hyperref}
+
+\usepackage[
+backend=bibtex,
+style=alphabetic,
+sorting=ynt
+]{biblatex} %Imports biblatex package
+\addbibresource{ET4I_References.bib} %Import the bibliography file
+
+%opening
+\title{Practice \LaTeX \ Document}
+\author[1]{Conor Sweeney}
+\author[2]{Miles Davis}
+\author[3]{William Butler Yeats}
+
+\affil[1]{School of Mathematics and Statistics, UCD}
+\affil[2]{School of Music, BlueNote}
+\affil[3]{School of Literature, Clare}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Multiple Authors}
+
+Multiple authors above.
+
+\section{Bibliography}
+Export items from Zotero using BibLaTeX option. Specify \verb|backend=bibtex| \cite{etchanchu_multiscale_2025}
+
+
+\printbibliography
+
+\end{document}

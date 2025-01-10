@@ -1,0 +1,185 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{ynt/global//global/global}
+  \entry{etchanchu_multiscale_2025}{article}{}
+    \name{author}{15}{}{%
+      {{hash=EJ}{%
+         family={Etchanchu},
+         familyi={E\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Demarty},
+         familyi={D\bibinitperiod},
+         given={Jérôme},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dezetter},
+         familyi={D\bibinitperiod},
+         given={Alain},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Farhani},
+         familyi={F\bibinitperiod},
+         given={Nesrine},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=TPB}{%
+         family={Thiam},
+         familyi={T\bibinitperiod},
+         given={Pape\bibnamedelima Biteye},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Allies},
+         familyi={A\bibinitperiod},
+         given={Aubin},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bodian},
+         familyi={B\bibinitperiod},
+         given={Ansoumana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Boulet},
+         familyi={B\bibinitperiod},
+         given={Gilles},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Chahinian},
+         familyi={C\bibinitperiod},
+         given={Nanée},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Diop},
+         familyi={D\bibinitperiod},
+         given={Lamine},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Mainassara},
+         familyi={M\bibinitperiod},
+         given={Ibrahim},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=NPM}{%
+         family={Ndiaye},
+         familyi={N\bibinitperiod},
+         given={Pape\bibnamedelima Malick},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=OC}{%
+         family={Ollivier},
+         familyi={O\bibinitperiod},
+         given={Chloé},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Olioso},
+         familyi={O\bibinitperiod},
+         given={Albert},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RO}{%
+         family={Roupsard},
+         familyi={R\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \keyw{Evapotranspiration, Intercomparison, Land surface models, Remote
+  sensing, West Africa}
+    \strng{namehash}{EJ+1}
+    \strng{fullhash}{EJDJDAFNTPBAABABGCNDLMINPMOCOARO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Etc+25}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Understanding the spatiotemporal variability of actual evapotranspiration
+  ({ET}) is a critical issue for better water resources management from plot to
+  basin scale. It is particularly true in the Sahelian region which is very
+  vulnerable in terms of water and agricultural resources, but also very
+  scarcely monitored. This study aims to improve understanding of {ET} in
+  Sahelian agrosystems by comparing twenty {ET} products and collections on two
+  areas in Central Senegal and South-Western Niger: Breathing Earth System
+  Simulation ({BESS}), Derive Optimal Linear Combination Evapotranspiration
+  ({DOLCE}) v2.1 and v3.0, {ERA}5 and {ERA}5-Land, {FLUXCOM}-{RS}, Global Land
+  Data Assimilation System ({GLDAS}) on Noah and Catchment Land Surface Model
+  ({CLSM}), Global Land Evaporation: the Amsterdam Methodology ({GLEAM}) v3.5a,
+  v3.5b, v3.6a and v3.6b, Modern-Era Retrospective analysis for Research and
+  Applications v2 ({MERRA}-2), {MODIS} Global Evapotranspiration products
+  ({MOD}16/{MYD}16), Penman-Monteith Leuning version 2 ({PML}\_V2) v0.1 and
+  v0.1.7, Reliability Ensemble Averaging ({REA}), Simplified Surface Energy
+  Balance for operational applications ({SSEBop}) and Water Productivity
+  through Open access of Remotely sensed derived data ({WaPOR}). In order to
+  assess the abilities and drawbacks of each product, a multi-scale analysis is
+  first performed at local scale with different temporal aggregation levels
+  (daily, decadal, monthly). The best performing products, like {GLEAM},
+  {MERRA}-2 or {GLDAS}-Noah, have low spatial resolution (≥0.25°), but shows
+  really good agreement with {ET} measurements ({RMSE} ∼ 0.5 mm.d-1,
+  R2 ≥ 0.8). A multi-scale spatial analysis with different spatial
+  aggregation levels (1, 10 and 25 km) is then performed on interannual
+  composite maps of annual and seasonal {ET}. Results highlight the different
+  spatiotemporal behaviour of all the products. Products such as {ERA}5-Land
+  and {PML}\_V2 0.1.7 stand out in this comparison as their higher resolution
+  allows them to describe the spatial patterns of {ET} realistically and more
+  precisely while having relatively good performances at local scale
+  ({RMSE} ∼ 0.6 mm.d-1, R2 ≥ 0.7). Overall, the comparison highlights
+  the need to consider soil moisture to accurately estimate {ET} in the
+  Sahelian region, as the products considering it generally show better
+  performances. It also points out the lack of a high quality and resolution
+  {ET} product over the Sahel. Future satellite missions, as well as data
+  fusion techniques, could help to fill up this gap and propose a reference
+  product on Sahelian ecosystems.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jhydrol.2024.132585
+    \endverb
+    \field{issn}{0022-1694}
+    \field{pages}{132585}
+    \field{title}{Multiscale analysis of existing actual evapotranspiration
+  products over agropastoral Sahel}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0022169424019814
+    \endverb
+    \field{volume}{651}
+    \verb{file}
+    \verb ScienceDirect Snapshot:/home/conor/snap/zotero-snap/common/Zotero/sto
+    \verb rage/9K9A66AI/Etchanchu et al. - 2025 - Multiscale analysis of existi
+    \verb ng actual evapotransp.html:text/html
+    \endverb
+    \field{journaltitle}{Journal of Hydrology}
+    \field{day}{01}
+    \field{month}{04}
+    \field{year}{2025}
+    \field{urlday}{07}
+    \field{urlmonth}{01}
+    \field{urlyear}{2025}
+  \endentry
+\enddatalist
+\endinput
